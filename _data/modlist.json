@@ -342,12 +342,6 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "CrustyTextiles (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Fozzy",
     "name": "Deconstruct First",
     "steamId": null,
@@ -856,12 +850,6 @@
     "name": "Pharmacist",
     "steamId": "1365242717",
     "version": "2.9.140"
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0"
   },
   {
     "author": "民火",
@@ -1536,12 +1524,6 @@
     "version": "1.4.6"
   },
   {
-    "author": "I exist",
-    "name": "Crossbows",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Taranchuk and  Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
@@ -1552,12 +1534,6 @@
     "name": "Statue Of Colonist Alien Race Patch",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "AUTOMATIC and  Oracle of Thessia",
-    "name": "Steampunk: Trader Airships",
-    "steamId": "2708154727",
-    "version": "1.0.350.0854"
   },
   {
     "author": "Kiame Vivacity",
@@ -2142,10 +2118,40 @@
     "version": null
   },
   {
-    "author": "Acruid",
-    "name": "Repair Workbench",
-    "steamId": "733997423",
-    "version": "1.0.0.0"
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Zircaroi",
+    "name": "MendAndRecycle_FasterRecycling",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alaestor",
+    "name": "Misc. Robots++",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "$$$",
+    "name": "Advanced Mortar (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sulusdacor",
+    "name": "[sd] Advanced Powergeneration (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "hodlhodl",
@@ -2161,15 +2167,15 @@
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.2.0.7"
-  },
-  {
-    "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.0.5.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.2.0.7"
   },
   {
     "author": "hodlhodl",

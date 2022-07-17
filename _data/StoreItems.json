@@ -6061,12 +6061,6 @@
       "price": 2
     },
     {
-      "abr": "boiledleather",
-      "category": "Textiles",
-      "defname": "BoiledLeather",
-      "price": 5
-    },
-    {
       "abr": "bone",
       "category": "Inert relics",
       "defname": "VIE_RelicInertBone",
@@ -12370,7 +12364,7 @@
       "abr": "makeshiftfuse",
       "category": "Power",
       "defname": "Building_RTMakeshiftFuse",
-      "price": 120
+      "price": 100
     },
     {
       "abr": "makeshiftlmg",
@@ -13633,12 +13627,6 @@
       "price": -10
     },
     {
-      "abr": "bullet-shootingcrossbow",
-      "category": "Ranged weapons",
-      "defname": "Cr_BulletShootingCrossbow",
-      "price": 500
-    },
-    {
       "abr": "campfire",
       "category": "Misc",
       "defname": "Campfire",
@@ -13879,12 +13867,6 @@
       "price": 3
     },
     {
-      "abr": "crossbow",
-      "category": "Ranged weapons",
-      "defname": "Cr_Crossbow",
-      "price": 300
-    },
-    {
       "abr": "cryptosleepcasket",
       "category": "Misc",
       "defname": "CryptosleepCasket",
@@ -14099,12 +14081,6 @@
       "category": "Misc",
       "defname": "O21_FR_Building_ElderBrainPool",
       "price": -10
-    },
-    {
-      "abr": "electricrepairbench",
-      "category": "Production",
-      "defname": "ElectricTableRepair",
-      "price": 500
     },
     {
       "abr": "embrasure",
@@ -16189,12 +16165,6 @@
       "price": 725
     },
     {
-      "abr": "repairkit",
-      "category": "Manufactured",
-      "defname": "RepairKit",
-      "price": 25
-    },
-    {
       "abr": "repairmodule",
       "category": "Manufactured",
       "defname": "WTH_RepairModule",
@@ -16205,12 +16175,6 @@
       "category": "Furniture",
       "defname": "Shelf_RepairRack",
       "price": 2908
-    },
-    {
-      "abr": "repeatingcrossbow",
-      "category": "Ranged weapons",
-      "defname": "Cr_RepeatingCrossbow",
-      "price": 350
     },
     {
       "abr": "repeatingshotgun",
@@ -17542,7 +17506,7 @@
       "abr": "ultrabattery",
       "category": "Power",
       "defname": "SmallUltraEfficientBattery",
-      "price": 558
+      "price": 550
     },
     {
       "abr": "ultrascreentelevision",
@@ -18019,131 +17983,407 @@
       "price": 550
     },
     {
+      "abr": "builder(i)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Builder_I",
+      "price": 1000
+    },
+    {
+      "abr": "builder(ii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Builder_II",
+      "price": 2000
+    },
+    {
+      "abr": "builder(iii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Builder_III",
+      "price": 5000
+    },
+    {
+      "abr": "builder(iv)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Builder_IV",
+      "price": 7500
+    },
+    {
+      "abr": "builder(v)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Builder_V",
+      "price": 10000
+    },
+    {
+      "abr": "cleanerbasestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Cleaner",
+      "price": 1000
+    },
+    {
+      "abr": "cleaner(ii)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Cleaner_II",
+      "price": 2000
+    },
+    {
+      "abr": "cleaner(iii)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Cleaner_III",
+      "price": 5000
+    },
+    {
+      "abr": "cleaner(iv)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Cleaner_IV",
+      "price": 7500
+    },
+    {
+      "abr": "cleaner(v)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Cleaner_V",
+      "price": 10000
+    },
+    {
+      "abr": "crafter(i)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Crafter_I",
+      "price": 1000
+    },
+    {
+      "abr": "crafter(ii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Crafter_II",
+      "price": 2000
+    },
+    {
+      "abr": "crafter(iii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Crafter_III",
+      "price": 5000
+    },
+    {
+      "abr": "advancedgeothermalgenerator",
+      "category": "Power",
+      "defname": "sd_adv_powergen_adv_geothermal_generator",
+      "price": 3500
+    },
+    {
+      "abr": "advancedmortar",
+      "category": "Security",
+      "defname": "Ad_Turret_Mortar",
+      "price": 1208
+    },
+    {
+      "abr": "advancednuclearpowerplant",
+      "category": "Power",
+      "defname": "sd_adv_powergen_nuclear_power_plant",
+      "price": 7500
+    },
+    {
+      "abr": "advancedsolargenerator",
+      "category": "Power",
+      "defname": "sd_adv_powergen_adv_solar_generator",
+      "price": 1500
+    },
+    {
+      "abr": "advancedwatermillgenerator",
+      "category": "Power",
+      "defname": "sd_adv_powergen_WatermillGenerator",
+      "price": 2000
+    },
+    {
+      "abr": "advancedwindturbine",
+      "category": "Power",
+      "defname": "sd_adv_powergen_adv_wind_turbine",
+      "price": 1250
+    },
+    {
+      "abr": "crafter(iv)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Crafter_IV",
+      "price": 7500
+    },
+    {
+      "abr": "crafter(v)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Crafter_V",
+      "price": 10000
+    },
+    {
+      "abr": "er(i)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_ER_I",
+      "price": 1000
+    },
+    {
+      "abr": "er(ii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_ER_II",
+      "price": 2000
+    },
+    {
+      "abr": "er(iii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_ER_III",
+      "price": 5000
+    },
+    {
+      "abr": "er(iv)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_ER_IV",
+      "price": 7500
+    },
+    {
+      "abr": "er(v)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_ER_V",
+      "price": 10000
+    },
+    {
+      "abr": "haulerbasestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Hauler",
+      "price": 1000
+    },
+    {
+      "abr": "hauler(ii)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Hauler_II",
+      "price": 2000
+    },
+    {
+      "abr": "hauler(iii)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Hauler_III",
+      "price": 5000
+    },
+    {
+      "abr": "hauler(iv)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Hauler_IV",
+      "price": 7500
+    },
+    {
+      "abr": "hauler(v)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Hauler_V",
+      "price": 10000
+    },
+    {
+      "abr": "kitchen(i)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Kitchen_I",
+      "price": 1000
+    },
+    {
+      "abr": "kitchen(ii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Kitchen_II",
+      "price": 2000
+    },
+    {
+      "abr": "kitchen(iii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Kitchen_III",
+      "price": 5000
+    },
+    {
+      "abr": "kitchen(iv)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Kitchen_IV",
+      "price": 7500
+    },
+    {
+      "abr": "kitchen(v)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Kitchen_V",
+      "price": 10000
+    },
+    {
+      "abr": "mendingkit",
+      "category": "Manufactured",
+      "defname": "MendingKit",
+      "price": 17
+    },
+    {
+      "abr": "mendingworkbench",
+      "category": "Production",
+      "defname": "TableMending",
+      "price": 583
+    },
+    {
+      "abr": "omni(v)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Omni_V",
+      "price": 15000
+    },
+    {
+      "abr": "roboticcomponent",
+      "category": "Items",
+      "defname": "RPP_Component",
+      "price": 250
+    },
+    {
+      "abr": "roboticmatrix(advanced)",
+      "category": "Items",
+      "defname": "RPP_Matrix_IV",
+      "price": 7500
+    },
+    {
+      "abr": "roboticmatrix(anti-logic)",
+      "category": "Items",
+      "defname": "RPP_Matrix_V",
+      "price": 10000
+    },
+    {
+      "abr": "roboticmatrix(basic)",
+      "category": "Items",
+      "defname": "RPP_Matrix_II",
+      "price": 1500
+    },
+    {
+      "abr": "roboticmatrix(intermediate)",
+      "category": "Items",
+      "defname": "RPP_Matrix_III",
+      "price": 400
+    },
+    {
+      "abr": "roboticmatrix(simple)",
+      "category": "Items",
+      "defname": "RPP_Matrix_I",
+      "price": 500
+    },
+    {
+      "abr": "roboticsworkbench",
+      "category": "Production",
+      "defname": "Table_RPP_RoboticsBench",
+      "price": 1250
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": 3500
+      "price": 3333
     },
     {
       "abr": "zombgrella",
       "category": "Misc",
       "defname": "Zombgrella",
-      "price": 650
+      "price": 642
     },
     {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "DoubleBedGuest",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": -10
+      "price": 1467
     },
     {
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": -10
+      "price": 290
     },
     {
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": -10
+      "price": 102
     },
     {
       "abr": "guestslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBedGuest",
-      "price": -10
+      "price": 288
     },
     {
       "abr": "guestergonomicbed",
       "category": "Furniture",
       "defname": "Bed_ErgonomicGuest",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "guestergonomicdoublebed",
       "category": "Furniture",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": -10
+      "price": 867
     },
     {
       "abr": "guestroyalposterbed",
       "category": "Furniture",
       "defname": "Bed_KingsizeGuest",
-      "price": -10
+      "price": 2008
     },
     {
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "Bed_StoneSlabGuest",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "guestsimplebed",
       "category": "Furniture",
       "defname": "Bed_SimpleGuest",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "guestglitterworldhospitalbed",
       "category": "Furniture",
       "defname": "GlitterworldHospitalBedSWGuest",
-      "price": -10
+      "price": 1958
     },
     {
       "abr": "guestoperatingtable",
       "category": "Furniture",
       "defname": "Bed_OperatingTableGuest",
-      "price": -10
+      "price": 508
     },
     {
       "abr": "guestcryptosleepsuspender",
       "category": "Furniture",
       "defname": "Bed_CryptoBedGuest",
-      "price": -10
+      "price": 733
     },
     {
       "abr": "guestadvancedbed",
       "category": "Furniture",
       "defname": "Bed_AdvBedGuest",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "guestadvanceddoublebed",
       "category": "Furniture",
       "defname": "Bed_AdvDoubleBedGuest",
-      "price": -10
+      "price": 1483
     }
   ],
-  "total": 3024
+  "total": 3064
 }
